@@ -1,0 +1,508 @@
+{
+  "summary": {
+    "date": "2026-09-15",
+    "version": "post-trust-contract",
+    "total": 55,
+    "completed": 55,
+    "errors": 0,
+    "avg_confidence": 55,
+    "avg_time": 38.8
+  },
+  "results": [
+    {
+      "id": 1,
+      "level": null,
+      "title": null,
+      "confidence": 0.9,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 2,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 3,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 4,
+      "level": null,
+      "title": null,
+      "confidence": 0.74,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 5,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 6,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 7,
+      "level": null,
+      "title": null,
+      "confidence": 0.76,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 8,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 9,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 10,
+      "level": null,
+      "title": null,
+      "confidence": 0.74,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 11,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 12,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 13,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 14,
+      "level": null,
+      "title": null,
+      "confidence": 0.8,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 15,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 16,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 17,
+      "level": null,
+      "title": null,
+      "confidence": 0.35,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 18,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 19,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 20,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 21,
+      "level": null,
+      "title": null,
+      "confidence": 0.74,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 22,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 23,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 24,
+      "level": null,
+      "title": null,
+      "confidence": 0.6,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 25,
+      "level": null,
+      "title": null,
+      "confidence": 0.49,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 26,
+      "level": null,
+      "title": null,
+      "confidence": 0.84,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 27,
+      "level": null,
+      "title": null,
+      "confidence": 0.76,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 28,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 29,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 30,
+      "level": null,
+      "title": null,
+      "confidence": 0.72,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 31,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 32,
+      "level": null,
+      "title": null,
+      "confidence": 0.8,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 33,
+      "level": null,
+      "title": null,
+      "confidence": 0.45,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 34,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 35,
+      "level": null,
+      "title": null,
+      "confidence": 0.49,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 36,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 37,
+      "level": null,
+      "title": null,
+      "confidence": 0.74,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 38,
+      "level": null,
+      "title": null,
+      "confidence": 0.45,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 39,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 40,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 41,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 42,
+      "level": null,
+      "title": null,
+      "confidence": 0.84,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 43,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 44,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 45,
+      "level": null,
+      "title": null,
+      "confidence": 0.85,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 46,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 47,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 48,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 49,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 50,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    },
+    {
+      "id": 51,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 52,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 53,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 54,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "formal"
+    },
+    {
+      "id": 55,
+      "level": null,
+      "title": null,
+      "confidence": 0.4,
+      "time": 0,
+      "completed": true,
+      "verification": "reasoning"
+    }
+  ]
+}
